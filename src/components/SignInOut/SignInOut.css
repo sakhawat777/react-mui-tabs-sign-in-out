@@ -1,0 +1,33 @@
+.main {
+	margin: 50px 50px 50px 50px;
+	display: flex;
+}
+.second {
+	margin-left: 300px;
+	margin-top: 20px;
+}
+.welcome {
+	font-size: 2rem;
+	color: #3a3c63;
+}
+.notice {
+	color: #73c15c;
+	margin-left: 140px;
+}
+.applicant {
+	color: #3a3c63;
+}
+.para {
+	color: #5f6c86;
+}
+.foring {
+	font-size: 3.5rem;
+	color: #5bbc2e;
+}
+.tech {
+	font-size: 2rem;
+	color: #182f59;
+}
+.o {
+	color: #182f59;
+}
